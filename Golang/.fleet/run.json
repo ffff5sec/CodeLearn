@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "type": "go",
+      "name": "rungo",
+      "goExecPath": "/usr/local/go/bin/go",
+      "buildTargets": ["$PROJECT_DIR$/src",
+        "$PROJECT_DIR$/src"
+    //    "$PROJECT_DIR$/main.go"
+      ]
+    }
+  ]
+}
+
+
